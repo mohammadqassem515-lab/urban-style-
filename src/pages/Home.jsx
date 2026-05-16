@@ -16,7 +16,7 @@ import ProductCard from "../components/ProductCard"
           <h1>Urban Style</h1>
 
           <p>
-            Clothes that feel right for everyday life.
+            Modern Clothes designed for everyday comfort.
           </p>
 
           <button>Shop Now</button>
