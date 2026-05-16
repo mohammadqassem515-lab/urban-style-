@@ -11,11 +11,11 @@ function Contact() {
           <h1>Contact Us</h1>
 
           <p>
-            Feel free to contact us for any questions,
-            feedback, or product inquiries .
+            Feel free to contact us for any questions,  feedback, or product inquiries .
+            
           </p>
 
-          <p>Email: urbanstyle@email.com</p>
+          <p>Email: urbanstyle@gmail.com</p>
 
           <p>Phone: +961 70 000 000</p>
 
