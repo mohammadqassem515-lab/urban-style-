@@ -13,8 +13,8 @@ function Footer() {
           <h2>Urban Style</h2>
 
           <p>
-            Modern everyday fashion designed for comfort,
-            confidence, and simplicity.
+            Modern everyday best fashion designed for comfort,confidence, and simplicity.
+            
           </p>
 
         </div>
@@ -39,7 +39,7 @@ function Footer() {
 
           <h3>Contact</h3>
 
-          <p>urbanstyle@email.com</p>
+          <p>urbanstyle@gmail.com</p>
 
           <p>+961 70 000 000</p>
 
