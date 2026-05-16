@@ -5,32 +5,32 @@ function About() {
 
   return (
 
-    <section className="about-page">
+                <section className="about-page">
 
-      <div className="about-container">
+<div className="about-container">
 
-        <div className="about-text">
+              <div className="about-text"> 
 
-          <h1>About Urban Style</h1>
-
-          <p>
-            Urban Style was created to offer simple,
-            modern, and comfortable outfits for everyday life.
-          </p>
+                <h1>About Urban Style</h1>
 
           <p>
-            The goal of this project is to combine clean fashion
-            aesthetics with a smooth online shopping experience.
-          </p>
+            Urban Style was created to offer simple, modern, and comfortable outfits for everyday life
+           
+             </p>
+
+          <p>
+            The goal of this project is to combine clean fashion aesthetics with a smooth online shopping experience.
+      
+                </p>
 
           <button>
             Explore Collection
-          </button>
+                 </button>
 
-        </div>
+   </div>
 
 
-        <div className="about-image">
+             <div className="about-image">
 
           <img
             src={aboutimage}
