@@ -9,7 +9,7 @@ import Products from "./pages/Products"
 import Contact from "./pages/Contact"
 
 import About from "./pages/About"
-import Footer from "./components/footer"
+import Footer from "./components/Footerooter"
 
 function App() {
 
