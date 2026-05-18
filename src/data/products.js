@@ -1,9 +1,10 @@
-import beigeSuit from "../assets/images/beige-suit.jpeg"
-import blackSuit from "../assets/images/black-suit.jpeg"
+
+import beigesuit from "../assets/images/beige-suit.jpeg"
+import blacksuit from "../assets/images/black-suit.jpeg"
 import navyBlueSuit from "../assets/images/navy-blue-suit.jpeg"
 import greensuit from "../assets/images/green-suit.jpeg"
 import graysuit from "../assets/images/gray-suit.jpeg"
-import lightbeigesuit from "../assets/images/Light-beige-suit.jpeg"
+import lightbeigesuit from "../assets/images/light-beige-suit.jpeg"
 import blackcorduroyaviatorjacket from"../assets/images/black-corduroy-aviator-jacket.jpeg"
 import browncorduroyaviatorjacket from "../assets/images/brown-corduroy-aviator-jacket.jpeg"
 import whitecorduroyaviatorjacket from "../assets/images/white-corduroy-aviator-jacket.jpeg"
@@ -44,12 +45,11 @@ import blackmoccasineleather from "../assets/images/black-moccasin-leather.jpeg"
 import brownmocassineleather from "../assets/images/brown-moccasin-leather.jpeg"
 import darkmocassineleather from "../assets/images/dark-moccasin-leather.jpeg"
 
-
 const products = [
 
   {
     id: 1,
-    image: beigeSuit,
+    image: beigesuit ,
     title: "Beige Suit",
     category: "Suits",
     newPrice: 90
@@ -57,7 +57,7 @@ const products = [
 
   {
     id: 2,
-    image: blackSuit,
+    image: blacksuit,
     title: "Black Suit",
     category: "Suits",
     newPrice: 100
