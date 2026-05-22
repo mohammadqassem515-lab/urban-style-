@@ -195,21 +195,18 @@ nav a.active {
   .product-container {
     grid-template-columns: 1fr;
   }
-
   .reviews {
     flex-direction: column;
     align-items: center;
   }
-
   .navbar {
-    flex-direction: column;
+    padding: 10px;
   }
-
   .nav-links {
     flex-direction: column;
-    margin-top: 10px;
+    gap: 10px;
+    align-items: center;
   }
-
   .hero-content h1{
     font-size: 45px;
 }

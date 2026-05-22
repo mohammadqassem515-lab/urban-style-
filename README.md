@@ -1,9 +1,9 @@
 # Urban Style
 
-Urban Style is a responsive fashion store website developed using ReactJS.  
-The project focuses on creating a clean and modern user interface for browsing clothing products online.
+## project description 
 
----
+Urban Style is a responsive fashion store website developed using eeactJS.The project focuses on creating a clean and modern user interface for browsing clothing products online.
+
 
 ## Features
 
@@ -12,10 +12,10 @@ The project focuses on creating a clean and modern user interface for browsing c
 - Product search functionality
 - Modern homepage with featured collection
 - Customer feedback section
-- Contact form UI
+- Contact form UI/UX design
 - React Router navigation
 
----
+
 
 ## Technologies Used
 
@@ -24,6 +24,8 @@ The project focuses on creating a clean and modern user interface for browsing c
 - JavaScript
 - React Router
 - Vite
+- Git & Github 
+- netlify deployment  
 
 ---
 
@@ -53,5 +55,16 @@ src/
 
 1. Clone the repository
 
-```bash
-git clone YOUR_GITHUB_LINK
+Github link : https://github.com/mohammadqassem515-lab/urban-style-#
+
+2. Netlify link ( deployment) : https://unrivaled-seahorse-563017.netlify.app/
+
+## Screen shots 
+
+![homepage](./Screenshots/Home.png)
+
+![Productpage](./Screenshots/product%20.png)
+
+![Aboutpage](./Screenshots/About.png)
+
+![Contactpage](./Screenshots/Contact.png)

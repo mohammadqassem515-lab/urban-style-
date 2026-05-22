@@ -45,6 +45,7 @@ import blackmoccasineleather from "../assets/images/black-moccasin-leather.jpeg"
 import brownmocassineleather from "../assets/images/brown-moccasin-leather.jpeg"
 import darkmocassineleather from "../assets/images/dark-moccasin-leather.jpeg"
 
+
 const products = [
 
   {
@@ -73,7 +74,7 @@ const products = [
 
   {
     id:4 ,
-    image: greensuit,
+    image:  greensuit,
     title: "Green Suit ",
     category :"Suits",
     newPrice: 100
@@ -97,7 +98,7 @@ const products = [
   
   {
     id:7,
-    image:blackcorduroyaviatorjacket,
+    image: blackcorduroyaviatorjacket,
     title:"Black cordury aviator jacket",
     category: "Jackets",
     newPrice:70
@@ -105,7 +106,7 @@ const products = [
 
   {
     id:8,
-    image:browncorduroyaviatorjacket,
+    image: browncorduroyaviatorjacket,
     title:"Brown cordroy aviator jacket",
     category:"Jackets",
     newPrice:70
