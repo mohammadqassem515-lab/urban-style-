@@ -6,16 +6,16 @@ import ProductCard from "../components/ProductCard"
 
 function Products() {
 
-  const [selectedCategory, setSelectedCategory] = useState("All")
+  const [selectedCategory, setSelectedCategory] =useState("All")
 
-  const [searchTerm, setSearchTerm] = useState("")
+  const [searchTerm, setSearchTerm] =  useState("")
 
 
   const filteredProducts = products.filter((product) => {
 
     const matchesCategory =
-      selectedCategory === "All" ||
-      product.category === selectedCategory
+      selectedCategory ===    "All" ||
+      product.category ===selectedCategory
 
     const matchesSearch =
       product.title.toLowerCase().includes(

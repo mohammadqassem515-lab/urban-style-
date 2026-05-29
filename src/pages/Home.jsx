@@ -2,6 +2,8 @@ import beigeSuit from "../assets/images/beige-suit.jpeg"
 import brownJacket from "../assets/images/brown-corduroy-aviator-jacket.jpeg"
 import beigeBoot from "../assets/images/beige-chelsea-boot.jpeg"
 import summerSet from "../assets/images/Black-set.jpeg"
+import { Link} from "react-router-dom"
+
 
 import ProductCard from "../components/ProductCard"
 
@@ -19,7 +21,11 @@ import ProductCard from "../components/ProductCard"
             Modern Clothes designed for everyday comfort.
           </p>
 
-          <button>Shop Now</button>
+
+           <Link to ="/products">
+           <button>Shop Now</button>
+           </Link>
+          
         </div>
 
       </section>
@@ -28,13 +34,16 @@ import ProductCard from "../components/ProductCard"
 
   <div className="featured-text">
 
-    <h2>Summer Collection</h2>
+    <h2>Summer Collection  </h2>
 
     <p>
-      Lightweight outfits designed for everyday comfort.
-    </p>
+      Lightweight outfits designed for everyday comfort. </p>
 
-    <button>Explore Now</button>
+      <Link to ="/products">
+      <button>Explore Now</button>
+      </Link>
+
+    
 
   </div>
 

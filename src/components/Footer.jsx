@@ -1,4 +1,4 @@
-
+import { Link} from "react-router-dom"
 
 function Footer() {
 
@@ -13,7 +13,7 @@ function Footer() {
           <h2>Urban Style</h2>
 
           <p>
-            Modern everyday best fashion designed for comfort,confidence, and simplicity.
+            Modern everyday best fashion designed for comfort,confidence, and simplicity .
             
           </p>
 
@@ -24,13 +24,13 @@ function Footer() {
 
           <h3>Quick Links</h3>
 
-          <a href="/">Home</a>
+          <Link to="/">Home</Link>
 
-          <a href="/products">Products</a>
+          < Link to="/products">Products</Link>
 
-          <a href="/about">About</a>
+          < Link to="/about">About</Link>
 
-          <a href="/contact">Contact</a>
+          < Link to="/contact">Contact</Link>
 
         </div>
 

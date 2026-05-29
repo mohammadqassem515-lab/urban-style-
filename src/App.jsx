@@ -10,6 +10,8 @@ import Contact from "./pages/Contact"
 
 import About from "./pages/About"
 
+import Footer from "./components/footer"
+
 
 function App() {
 
@@ -31,7 +33,8 @@ function App() {
 
       </Routes>
       
-      
+      <Footer />
+
     </BrowserRouter>
     
   )

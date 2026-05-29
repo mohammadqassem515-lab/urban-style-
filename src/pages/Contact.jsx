@@ -17,7 +17,7 @@ function Contact() {
 
           <p>Email: urbanstyle@gmail.com</p>
 
-          <p>Phone: +961 70 000 000</p>
+          <p>Phone: +961 70 000 000  </p>
 
         </div>
 
@@ -50,7 +50,7 @@ function Contact() {
   ></textarea>
 
   <button type="submit">
-    Send Message
+      Send Message
   </button>
 
 </form>

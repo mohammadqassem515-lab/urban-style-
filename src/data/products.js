@@ -1,4 +1,3 @@
-
 import beigesuit from "../assets/images/beige-suit.jpeg"
 import blacksuit from "../assets/images/black-suit.jpeg"
 import navyBlueSuit from "../assets/images/navy-blue-suit.jpeg"

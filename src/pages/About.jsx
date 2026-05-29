@@ -1,5 +1,7 @@
 import aboutimage from "../assets/images/navy-blue-suit.jpeg"
 
+import { Link} from "react-router-dom"
+
 
 function About() {
 
@@ -9,25 +11,28 @@ function About() {
 
 <div className="about-container">
 
-              <div className="about-text"> 
+     <div className="about-text"> 
 
-                <h1>About Urban Style</h1>
+       <h1>About Urban Style</h1>
 
-          <p>
+                 <p>
             Urban Style was created to offer simple, modern, and comfortable outfits for everyday life
            
              </p>
 
-          <p>
+            <p>
             The goal of this project is to combine clean fashion aesthetics with a smooth online shopping experience.
       
                 </p>
+                
+          <Link to ="/products">
+                   <button>
+                       Explore Collection
+                   </button>
+          </Link>
+        
 
-          <button>
-            Explore Collection
-                 </button>
-
-   </div>
+                </div>
 
 
              <div className="about-image">
